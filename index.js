@@ -9,6 +9,9 @@ function sub(a,b){
 function mul(a,b){
     return a*b;
 }
+
+console.log("git diff...");
+
 console.log(add(1,2));
 console.log(sub(1,2));
 console.log(mul(2,22));
