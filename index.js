@@ -15,6 +15,8 @@ function div(a,b){
 }
 
 console.log("git diff...");
+console.log("Everything is added for calculation");
+
 
 console.log(add(1,2));
 console.log(sub(1,2));
